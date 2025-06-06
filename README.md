@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed! 👋
+# Hi, I'm Mohamed 👋
 ## 🚀 About Me
  I am a Front End Developer,
 I specialize in making web applications and modern
