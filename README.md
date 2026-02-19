@@ -1,36 +1,68 @@
-# Hi, I'm Mohamed! 👋
+# Hi, I'm Mohamed 👋  
+### Full-Stack Developer | Angular • Next.js • Node.js • Clean Architecture
+
+---
+
 ## 🚀 About Me
- I am a Front End Developer,
-I specialize in making web applications and modern
-responsive websites. I fell in love with Front End
-Development and have a passion for learning new
-technologies and creating beautiful websites using(html,css,jquery,bootstrap,Angular,ts,javaScript) with responsive (Web / Mobile / DeskTop),
-If you are interested in developing web
-technologies I would like to work with you on it. 
-I am available for hire on a part-time or full-time
-I'm Mostly building Front End part of websites.
 
+I build scalable full-stack web applications with a strong focus on clean architecture, maintainability, and performance.
 
+On the front-end, I work with Angular and Next.js to build modern, high-performance user interfaces.
 
-### 🔗 Links
+On the back-end, I design RESTful APIs using Node.js and Express, and structure data layers using MongoDB (Mongoose) and MySQL (Sequelize).
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-samy2000)
+I focus on writing production-ready code and building systems that scale.
 
+---
 
-🧑‍💻 I'm currently working on Bulding Front End part of websites
+## 🛠 Tech Stack
 
-🧠 I'm currently learning Front End 
+### 🎨 Front-End
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="angular"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="nextjs"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="react"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="typescript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="html"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="css"/>
+  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.96ee6a5a.svg" width="40" height="40" alt="tailwind"/>
+</p>
 
-🌱 I'm looking to collaborate on `Angular` Projects
+### 🧩 UI & Component Systems
+<p align="left">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/shadcnui.svg" width="40" height="40" alt="shadcn"/>
+   <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png?ssl=1" width="40" height="40" alt="primeng"/>
 
-📫 How to reach me eng.mohamedsamyhossebo@gmail.com
+</p>
 
-⚡️ Fun fact I like to learn something new every day
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### ⚙️ Back-End
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="nodejs"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="express"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="mongodb"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="mysql"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" width="40" height="40" alt="sequelize"/>
+</p>
 
+### 🧰 Tools & Environment
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="github"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" alt="postman"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/>
+</p>
 
+---
 
-### 🛠 Skills
-`Javascript`, `HTML`, `CSS` , `SCSS` , `TypeScript` ,`BootStrap` , `Tailwind` , `Angular +14` , `PostMan`, `RESTful API` `Responsive Websites` , `Git&GitHub` , `CommandLine` , `Kali Linux`
+## 📌 Current Focus
+- Full-Stack production systems
+- System design fundamentals
+- Clean Architecture & scalability
 
+---
+
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-samy2000)
+
+📫 eng.mohamedsamyhossebo@gmail.com
