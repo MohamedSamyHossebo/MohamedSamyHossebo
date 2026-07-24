@@ -70,7 +70,7 @@ const pharaoh = {
   <table border="0">
     <tr>
       <td align="center" valign="top">
-        <img height="180" src="https://github-stats-extended.vercel.app/api?username=MohamedSamyHossebo&show_icons=true&bg_color=0b0f19&title_color=d4af37&text_color=ffffff&icon_color=d4af37&hide_border=true&count_private=true" alt="GitHub stats"/>
+        <img height="180" src="https://github-stats-extended.vercel.app/api?username=MohamedSamyHossebo&show_icons=true&bg_color=0b0f19&title_color=d4af37&text_color=ffffff&icon_color=d4af37&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
       </td>
       <td align="center" valign="top">
         <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MohamedSamyHossebo&layout=compact&bg_color=0b0f19&title_color=d4af37&text_color=ffffff&icon_color=d4af37&hide_border=true" alt="Top Languages"/>
